@@ -1,4 +1,4 @@
-# Projeto Amigo Secreto 🎉
+# Projeto Amigo Secreto 🎁
 
 Este projeto simula um sorteio de amigo secreto.
 
